@@ -13,7 +13,6 @@ import random
 import time
 import numpy as np
 import wave
-
 # Инициализация Pygame
 pygame.init()
 
